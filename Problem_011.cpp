@@ -33,7 +33,7 @@
 #include "Level.h"
 using namespace std;
 
-int Problem_011(void)
+int prob_011(void)
 {
 	// Arrays via Variables
 	int myArray[20][20] = {};
